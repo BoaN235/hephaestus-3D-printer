@@ -83,3 +83,19 @@ Description:
 I Made a Logo 
 ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
 </details>
+<details>
+<summary> Day 2, Reaserch, Feb 16, 2025 </summary>
+
+time: 0 hours 0 min
+
+Total time: 2 hours 50 min
+
+Time : `research: 0 hour 0 min,
+  readme: 0 min, `
+
+Description: 
+- More Reaserch
+
+I Made a Logo 
+![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
+</details>
