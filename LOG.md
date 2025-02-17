@@ -109,15 +109,13 @@ Total Time 14 hours 50 mins
 
 Time : `Fusion360: 6`
 
-![image](https://github.com/user-attachments/assets/785138b0-0364-48ec-9edb-714a04c182a6)
+![image](https://github.com/user-attachments/assets/1c42a40d-9d9e-43ff-8ae7-f8f717f6d883)
 
 Description: 
 - Researched how 3d printers work
-- Created the Cad model for the frame
-- Started Cad model of the Carraige and Moters
-- Made an Excel SpreadSheet
+- Worked On rails 
 
-![image](https://github.com/user-attachments/assets/1c42a40d-9d9e-43ff-8ae7-f8f717f6d883)
+
 
   
 </details>
