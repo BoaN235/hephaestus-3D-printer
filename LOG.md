@@ -4,7 +4,7 @@ description: "A Core XY Printer"
 project_name: "Hephaestus-1"
 repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/refs/heads/main/LOG.md"
 ---
-# Hephaestus
+# Hephaestus-1
 Made by : Noah
 
 Total time: 8 hours 50 min
