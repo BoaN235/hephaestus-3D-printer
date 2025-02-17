@@ -85,7 +85,7 @@ I Made a Logo
 ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
 </details>
 <details>
-<summary> Day 2, First Pass of Cad, Feb 15, 2025 </summary>
+<summary> Day 2, First Pass of Cad, Feb 16, 2025 </summary>
 time: 6 hours
 
 Total Time 8 hours 50 mins
@@ -99,5 +99,25 @@ Description:
 - Created the Cad model for the frame
 - Started Cad model of the Carraige and Moters
 - Made an Excel SpreadSheet
+  
+</details>
+<details>
+<summary> Day 3, First Pass of Cad, Feb 17, 2025 </summary>
+time: 6 hours
+
+Total Time 8 hours 50 mins
+
+Time : `Fusion360: 6`
+
+![image](https://github.com/user-attachments/assets/785138b0-0364-48ec-9edb-714a04c182a6)
+
+Description: 
+- Researched how 3d printers work
+- Created the Cad model for the frame
+- Started Cad model of the Carraige and Moters
+- Made an Excel SpreadSheet
+
+![image](https://github.com/user-attachments/assets/1c42a40d-9d9e-43ff-8ae7-f8f717f6d883)
+
   
 </details>
