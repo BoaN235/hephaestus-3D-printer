@@ -7,10 +7,10 @@ repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/ref
 # Hephaestus-1
 Made by : Noah
 
-Total time: 8 hours 50 min
+Total time: 14 hours 50 min
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 4 hours 30 mins `
+  readme: 1 hour 25  min, Fusion360: 10 hours 30 mins `
 
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -105,7 +105,7 @@ Description:
 <summary> Day 3, First Pass of Cad, Feb 17, 2025 </summary>
 time: 6 hours
 
-Total Time 8 hours 50 mins
+Total Time 14 hours 50 mins
 
 Time : `Fusion360: 6`
 
