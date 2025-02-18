@@ -9,6 +9,8 @@ Made by : Noah
 
 Total time: 18 hours 50 min
 
+- [] I have a 3D printer or will be getting one before March 21st
+
 Time : `research: 2 hour 55 min,
   readme: 1 hour 25  min, Fusion360: 12 hours 30 mins `
 
