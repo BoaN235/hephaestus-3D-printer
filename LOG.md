@@ -111,6 +111,9 @@ Time : `Fusion360: 6`
 
 ![image](https://github.com/user-attachments/assets/1c42a40d-9d9e-43ff-8ae7-f8f717f6d883)
 
+![image](https://github.com/user-attachments/assets/08dccc06-f88b-48ce-9fb8-74955499323c)
+
+
 Description: 
 - Researched how 3d printers work
 - Worked On rails 
