@@ -32,7 +32,7 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 ## Helpfull Resources
 - www.matterhackers.com/articles/anatomy-of-a-3d-printer
 
-## BOM (Bill Of Materials) 
+## BOM (Bill Of Materials) Not Updated
 | Part                       | Price    | Link                                                                              | received | amount |
 |----------------------------|----------|-----------------------------------------------------------------------------------|----------|--------|
 | BIGTREETECH SKR E3 Mini V3 | $43.99     | [Amazon](https://www.amazon.com/BIGTREETECH-Control-TMC2209-Stepper-Upgrade/dp/B09LC34SCK?crid=W2IEEOBPTD2Q&dib=eyJ2IjoiMSJ9.oREwc4cixnNjyRT8KSgIvmfQLxXW2kwyvU-gqkBTuC6p7XnFI-3ipDJSwGVEIsx9TxF7p-Nyxb8Uh8VMmrpRzfOnXO01QdU6KfwnVil75fcBAfjWUjXnsaW6N4hYC3VScNHEP3sTmdlis47SQh4uYOfxoj590sAHLlpTuTJtgLNoUQw6xsbder_48m6K7lRDslPkIfK7Km-Ym6MoR4dLvgczlQazuIuOECl17SbgTSC9JY5APnOn-ghjTQA9ZlQx4yWU9Xx7XD5rPY5s0efVNJd0cLk_CT0SxqijH5s2WfQk3qr0iaW8biCUJfVC5Xbq5t0X0jkdKnjuRgcUAUkvaiM3Ii-ScJa1OsD3JU8nhlI._8BwwAVF5HgOOpRhFfdbnjqZBaFlCVKUZJQfPUq5uWI&dib_tag=se&keywords=BIGTREETECH%2BSKR%2BE3%2BMini%2BV3&qid=1739671535&s=industrial&sprefix=bigtreetech%2Bskr%2Be3%2Bmini%2Bv3%2Cindustrial%2C98&sr=1-1&th=1)   | No       | 1      |
