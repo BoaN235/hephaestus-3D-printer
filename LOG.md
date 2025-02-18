@@ -85,7 +85,7 @@ I Made a Logo
 ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
 </details>
 <details>
-<summary> Day 2, First Pass of Cad, Feb 16, 2025 </summary>
+<summary> Day 2, First Pass of Cad (pt.1), Feb 16, 2025 </summary>
 time: 6 hours
 
 Total Time 8 hours 50 mins
@@ -102,7 +102,7 @@ Description:
   
 </details>
 <details>
-<summary> Day 3, First Pass of Cad, Feb 17, 2025 </summary>
+<summary> Day 3, First Pass of Cad (pt.2), Feb 17, 2025 </summary>
 time: 8 hours
 
 Total Time 16 hours 50 mins
