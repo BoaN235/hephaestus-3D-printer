@@ -124,3 +124,17 @@ Description:
 
   
 </details>
+<details>
+<summary> Day 4, First Pass of Cad (pt.3), Feb 18, 2025 </summary>
+time: 0 hours
+
+Total Time 16 hours 50 mins
+
+Time : `research: 1 hour, readme: 30 mins, Fusion360: 4 hours 30 mins`
+
+
+Description: 
+- e
+  
+</details>
+
