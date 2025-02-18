@@ -110,7 +110,8 @@ Total Time 16 hours 50 mins
 Time : `Fusion360: 8 hours`
 
 
-![image](https://github.com/user-attachments/assets/08dccc06-f88b-48ce-9fb8-74955499323c)
+![image](https://github.com/user-attachments/assets/7483d0f3-786c-499a-85a3-58d5c8c9dbc8)
+
 
 
 Description: 
