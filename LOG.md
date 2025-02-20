@@ -155,11 +155,8 @@ Description:
 ![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)
 ![image](https://github.com/user-attachments/assets/66e0e701-f7fa-48d8-8fda-166db0af255d)
  (Don't you just love this fire hazard)
-
-
 </details>
-
-# <details>
+<details>
 <summary> Day 6, some reaserch, Feb 19, 2025 </summary>
 time: 0 hours
 
@@ -170,6 +167,5 @@ Time : `Fusion360: 0 hours`
 
 Description: 
 - Thought about a scissor lift mechanism for the bed
-
 
 </details>
