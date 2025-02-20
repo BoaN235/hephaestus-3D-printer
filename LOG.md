@@ -40,8 +40,8 @@ Nicknamed "fire hazard"
 | Pully Teeth 4mm Bore 6mm | $5.99 | [Amazon](https://www.amazon.com/WINSINN-Aluminum-Synchronous-Timing-Printer/dp/B07CXM1PP4?crid=33E6S9IJ81SKV&dib=eyJ2IjoiMSJ9.gvQ_LHP9h1Td42MvomH2_gC8ndFNdQysG5sjhRb2WsWmSJPImEuZo-NyVAg7VzjhAXiYjgng6TD-OiRyXQhJS6eWTVRSPbGjTo2X2bxH8-HFGb2am8bA5m8a2Cy8xa8niyrFNAlUMMoc1QjoiXHxaH_oxjEF-t01tI9Pik4dqfa5Bbh3ocGO553R0hrEKudnldufQuGXL8p1RI2fJncP2d86kc0pkEURnuPyTpm57mXWxkdihXg5vsFHm1wqyaXPVET67KzunwS_UrgIoson_3MOQh3Oy1K8AopVonVlk5UcxTvcGcRyUTjvVbTbCdaDouCdoSk_rm3lsTlv9qnsk_qVkxaOptEVB7cC6eNejfk.K7BPqlGJBYuFEErYl1th0I3KZqRWYz_wu-0w-ixNPfU&dib_tag=se&keywords=belt%2Bpulley%2Bwheels%2BTeeth&qid=1739672033&s=industrial&sprefix=belt%2Bpulley%2Bwheels%2Bteeth%2Cindustrial%2C58&sr=1-5&th=1) | No | 3
 
 
-## Development Plan
-- Step 1 Start
+## Development Plan 
+- Step 1 Start (this isen't in order)
   - [x] create a cohesive plan 
   - [x] resarch design choices
   - [x] resarch 3d printers
