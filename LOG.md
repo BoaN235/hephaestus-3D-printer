@@ -9,8 +9,10 @@ Total time: 21 hours 50 mins
 
 Time : `research: 2 hour 55 min,
   readme: 1 hour 25  min, Fusion360: 17 hours 30 mins `
-
+  
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
+
+Nicknamed "fire hazard"
 
 ## Goals and Requirments
 - standard 250mm x 250mm
@@ -151,7 +153,7 @@ Description:
 - started the base of the base (I am soo funny)
 
 ![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)
-![image](https://github.com/user-attachments/assets/fa8c29a1-93b2-4218-b3fd-11d5392d7437)
+![image](https://github.com/user-attachments/assets/fa8c29a1-93b2-4218-b3fd-11d5392d7437) (Don't you just love this fire hazard)
 
 
 </details>
