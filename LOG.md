@@ -159,7 +159,7 @@ Description:
 
 </details>
 
-<details>
+# <details>
 <summary> Day 6, some reaserch, Feb 19, 2025 </summary>
 time: 0 hours
 
