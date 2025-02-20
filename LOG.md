@@ -23,7 +23,7 @@ Nicknamed "fire hazard"
 - Under $250 (is under $200 worth the pain?)
 - Open-Source
 - won't burn my house down (I hope)
-- Rigid for good printing qualtiy (And not burning)
+- Rigid for good printing qualtiy (Shut up I spelled that right)
 - A Cool Logo Embossed somewhere
 - RGB lights (Gamer 3D Printer Guys)
 
