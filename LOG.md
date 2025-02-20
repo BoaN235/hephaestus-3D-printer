@@ -81,7 +81,7 @@ Time : `research: 1 hour 55 min,
 Description: 
 - Researched how 3d printers work
 - Started Development Plan
-- chose a CoreXY Printer
+- chose a CoreXY Printer 
 
 I Made a Logo 
 ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
@@ -100,7 +100,7 @@ Description:
 - Researched how 3d printers work
 - Created the Cad model for the frame
 - Started Cad model of the Carraige and Moters
-- Made an Excel SpreadSheet
+- Made an Excel SpreadSheet (I havent used it since - Day 5)
   
 </details>
 <details>
@@ -117,8 +117,8 @@ Time : `Fusion360: 8 hours`
 
 
 Description: 
-- Researched how 3d printers work
-- Worked On rails 
+- Researched how 3d printers work (I am tired of writing this just asume I am doing this for the entire project - Day 5)
+- Worked On rails (Very Descriptive - Day 5)
 
 
 
@@ -134,10 +134,28 @@ Time : `Fusion360: 5 hours`
 
 
 Description: 
-- I worked on the moter mounts and the belt sytem
+- I worked on the moter mounts and the belt sytem (In other words I got nothing done - Day 5)
 
 ![image](https://github.com/user-attachments/assets/8f0a88ea-3b12-445a-a15e-870d6089a4c7)
 
   
 </details>
+<details>
+<summary> Day 5, First Pass of Cad (pt.4), Feb 18, 2025 </summary>
+time: 3 hours
 
+Total Time 24 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+
+Description: 
+- I worked on the moter mounts and the belt sytem
+- showed how the belts will work
+- started the base of the base (I am soo funny)
+
+![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)
+![image](https://github.com/user-attachments/assets/fa8c29a1-93b2-4218-b3fd-11d5392d7437)
+
+
+</details>
