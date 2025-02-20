@@ -22,10 +22,10 @@ Nicknamed "fire hazard"
 - Klipper
 - Under $250 (is under $200 worth the pain?)
 - Open-Source
-- won't burn my house down
-- Rigid for good printing qualtiy
+- won't burn my house down (I hope)
+- Rigid for good printing qualtiy (And not burning)
 - A Cool Logo Embossed somewhere
-- RGB lights
+- RGB lights (Gamer 3D Printer Guys)
 
 ## Helpfull Resources
 - www.matterhackers.com/articles/anatomy-of-a-3d-printer
