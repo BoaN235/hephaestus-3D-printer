@@ -20,7 +20,7 @@ Nicknamed "fire hazard"
 - Enclosed
 - at least 150mm/s
 - Klipper
-- Under $250
+- Under $250 (is under $200 worth the pain?)
 - Open-Source
 - won't burn my house down
 - Rigid for good printing qualtiy
