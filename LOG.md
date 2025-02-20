@@ -158,3 +158,18 @@ Description:
 
 
 </details>
+
+<details>
+<summary> Day 6, some reaserch, Feb 19, 2025 </summary>
+time: 0 hours
+
+Total Time 24 hours 50 mins
+
+Time : `Fusion360: 0 hours`
+
+
+Description: 
+- Thought about a scissor lift mechanism for the bed
+
+
+</details>
