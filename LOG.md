@@ -153,7 +153,8 @@ Description:
 - started the base of the base (I am soo funny)
 
 ![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)
-![image](https://github.com/user-attachments/assets/fa8c29a1-93b2-4218-b3fd-11d5392d7437) (Don't you just love this fire hazard)
+![image](https://github.com/user-attachments/assets/66e0e701-f7fa-48d8-8fda-166db0af255d)
+ (Don't you just love this fire hazard)
 
 
 </details>
