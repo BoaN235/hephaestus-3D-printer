@@ -139,7 +139,7 @@ Description:
   
 </details>
 <details>
-<summary> Day 5, First Pass of Cad (pt.4), Feb 18, 2025 </summary>
+<summary> Day 5, First Pass of Cad (pt.4), Feb 19, 2025 </summary>
 time: 3 hours
 
 Total Time 24 hours 50 mins
@@ -157,7 +157,7 @@ Description:
  (Don't you just love this fire hazard)
 </details>
 <details>
-<summary> Day 6, some reaserch, Feb 19, 2025 </summary>
+<summary> Day 6, some reaserch, Feb 20, 2025 </summary>
 time: 0 hours
 
 Total Time 24 hours 50 mins
