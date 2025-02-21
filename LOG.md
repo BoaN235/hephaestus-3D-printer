@@ -157,15 +157,16 @@ Description:
  (Don't you just love this fire hazard)
 </details>
 <details>
-<summary> Day 6, some reaserch, Feb 20, 2025 </summary>
-time: 0 hours
+<summary> Day 6, First Pass of Cad (pt.5), Feb 20, 2025 </summary>
+time: 1 hours
 
 Total Time 24 hours 50 mins
 
-Time : `Fusion360: 0 hours`
+Time : `Fusion360: 1 hours`
 
 
 Description: 
 - Thought about a scissor lift mechanism for the bed
+- working on the bed
 
 </details>
