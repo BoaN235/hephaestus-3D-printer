@@ -169,7 +169,8 @@ Description:
 - Thought about a scissor lift mechanism for the bed
 - working on the bed
 
-  ![image](https://github.com/user-attachments/assets/41dbe85d-78b4-423b-9da2-0acccc7345a0)
+![image](https://github.com/user-attachments/assets/c5e4eda4-13c7-4743-a105-31af20733f08)
+
 
 
 </details>
