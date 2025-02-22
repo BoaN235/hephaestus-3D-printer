@@ -191,7 +191,8 @@ Description:
 - Probably gonna use an creality extruder bucuase
    - good enough
    - cheap
-![image](https://github.com/user-attachments/assets/c5e4eda4-13c7-4743-a105-31af20733f08)
+![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
+
 
 
 
