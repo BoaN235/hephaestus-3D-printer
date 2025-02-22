@@ -197,4 +197,20 @@ Description:
 
 
 </details>
+<details>
+<summary> Day 8, No time to work on it, Feb 22, 2025 </summary>
+time: 0 hours
+
+Total Time 28 hours 50 mins
+
+
+
+Description: 
+- I did nothing 
+![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
+
+
+
+
+</details>
 
