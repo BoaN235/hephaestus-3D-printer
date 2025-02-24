@@ -15,7 +15,7 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 Nicknamed "fire hazard"
 
 ## Goals and Requirments
-- standard 250mm x 250mm
+- standard 235 x 235mm
 - CoreXY
 - Enclosed
 - at least 150mm/s
