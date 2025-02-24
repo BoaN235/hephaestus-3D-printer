@@ -230,4 +230,26 @@ Description:
 
 
 </details>
+<details>
+<summary> Day 10, First Pass of Cad (pt.7) But Mainly PAIN, Feb 23, 2025 </summary>
+time: 3 hours
+
+Total Time 31 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
+
+Description: 
+- 
+
+Before:
+![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
+
+
+After:
+
+
+
+</details>
 
