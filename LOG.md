@@ -241,13 +241,18 @@ Time : `Fusion360: 3 hours`
 ![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
 
 Description: 
-- 
+- Changed the rails
+- rail 3d prints
+- changed bed guides
+- added cutout in the back
+- Cried becuase I still am not even close to what I wanted today. if I had more time I would have gotten more done
 
 Before:
 ![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
 
 
 After:
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
 
 
 
