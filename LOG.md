@@ -3,12 +3,12 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 31 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 34 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 28 hours 30 mins `
+  readme: 1 hour 25  min, Fusion360: 31 hours 30 mins `
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -234,25 +234,23 @@ Description:
 <summary> Day 10, First Pass of Cad (pt.7) But Mainly PAIN, Feb 23, 2025 </summary>
 time: 3 hours
 
-Total Time 31 hours 50 mins
+Total Time 34 hours 50 mins
 
 Time : `Fusion360: 3 hours`
 
 ![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
 
 Description: 
-- Changed the rails
-- rail 3d prints
-- changed bed guides
-- added cutout in the back
-- Cried becuase I still am not even close to what I wanted today. if I had more time I would have gotten more done
+- I fixed a lot of the errors and warnings
+- started to work more on the head
 
 Before:
-![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
 
 
 After:
-![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
+![image](https://github.com/user-attachments/assets/3905bee0-3666-49a8-ad22-a9b1c569a358)
+
 
 
 
