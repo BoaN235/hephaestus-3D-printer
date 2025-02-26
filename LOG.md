@@ -231,14 +231,40 @@ Description:
 
 </details>
 <details>
-<summary> Day 10, First Pass of Cad (pt.7) But Mainly PAIN, Feb 23, 2025 </summary>
+<summary> Day 10, First Pass of Cad (pt.7) But Mainly PAIN, Feb 24, 2025 </summary>
+time: 3 hours
+
+Total Time 31 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
+
+Description: 
+- 
+- Changed the rails
+- rail 3d prints
+- changed bed guides
+- added cutout in the back
+- Cried becuase I still am not even close to what I wanted today. if I had more time I would have gotten more done
+
+Before:
+![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
+
+
+After:
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
+
+
+
+</details>
+<details>
+<summary> Day 11, First Pass of Cad (pt.8), Feb 25, 2025 </summary>
 time: 3 hours
 
 Total Time 34 hours 50 mins
 
 Time : `Fusion360: 3 hours`
-
-![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
 
 Description: 
 - I fixed a lot of the errors and warnings
@@ -251,6 +277,25 @@ Before:
 After:
 ![image](https://github.com/user-attachments/assets/3905bee0-3666-49a8-ad22-a9b1c569a358)
 
+
+</details>
+<details>
+<summary> Day 11, First Pass of Cad (pt.9), Feb 26, 2025 </summary>
+time: 3 hours
+
+Total Time 34 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+Description: 
+- I fixed a lot of the errors and warnings
+- started to work more on the head
+
+Before:
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
+
+
+After:
 
 
 
