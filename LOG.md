@@ -288,14 +288,14 @@ Total Time 34 hours 50 mins
 Time : `Fusion360: 3 hours`
 
 Description: 
-- I fixed a lot of the errors and warnings
-- started to work more on the head
+- I worked on the head and final created an actual design YAY
 
 Before:
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
 
 
 After:
+![image](https://github.com/user-attachments/assets/34b59ce4-c341-4419-b187-b77011844731)
 
 
 
