@@ -67,266 +67,179 @@ Nicknamed "fire hazard"
 
 # Log
 
-<details>
-<summary> Day 1, Reaserch & Set Up, Feb 15, 2025 </summary>
+## Day 1: Research & Set Up (Feb 15, 2025)
+**Time:** 2 hours 50 min  
+**Total Time:** 2 hours 50 min  
+**Breakdown:** `research: 1 hour 55 min, readme: 55 min`
 
-time: 2 hours 50 min
-
-Total time: 2 hours 50 min
-
-Time : `research: 1 hour 55 min,
-  readme: 55 min, `
-
-Description: 
-- Researched how 3d printers work
+### Description:  
+- Researched how 3D printers work
 - Started Development Plan
-- chose a CoreXY Printer 
+- Chose a CoreXY Printer
+- Made a Logo  
+  ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
 
-I Made a Logo 
-![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
-</details>
-<details>
-<summary> Day 2, First Pass of Cad (pt.1), Feb 16, 2025 </summary>
-time: 6 hours
+---
 
-Total Time 8 hours 50 mins
+## Day 2: First Pass of CAD (pt.1) (Feb 16, 2025)
+**Time:** 6 hours  
+**Total Time:** 8 hours 50 mins  
+**Breakdown:** `research: 1 hour, readme: 30 mins, Fusion360: 4 hours 30 mins`
 
-Time : `research: 1 hour, readme: 30 mins, Fusion360: 4 hours 30 mins`
+### Description:  
+- Researched how 3D printers work
+- Created the CAD model for the frame
+- Started CAD model of the carriage and motors
+- Made an Excel spreadsheet (I haven't used it since - Day 5)
 
 ![image](https://github.com/user-attachments/assets/785138b0-0364-48ec-9edb-714a04c182a6)
 
-Description: 
-- Researched how 3d printers work
-- Created the Cad model for the frame
-- Started Cad model of the Carraige and Moters
-- Made an Excel SpreadSheet (I havent used it since - Day 5)
-  
-</details>
-<details>
-<summary> Day 3, First Pass of Cad (pt.2), Feb 17, 2025 </summary>
-time: 8 hours
+---
 
-Total Time 16 hours 50 mins
+## Day 3: First Pass of CAD (pt.2) (Feb 17, 2025)
+**Time:** 8 hours  
+**Total Time:** 16 hours 50 mins  
+**Breakdown:** `Fusion360: 8 hours`
 
-Time : `Fusion360: 8 hours`
-
+### Description:  
+- Researched how 3D printers work (Assume this for the entire project - Day 5)
+- Worked on rails (Very descriptive - Day 5)
 
 ![image](https://github.com/user-attachments/assets/7483d0f3-786c-499a-85a3-58d5c8c9dbc8)
 
+---
 
+## Day 4: First Pass of CAD (pt.3) (Feb 18, 2025)
+**Time:** 5 hours  
+**Total Time:** 21 hours 50 mins  
+**Breakdown:** `Fusion360: 5 hours`
 
-Description: 
-- Researched how 3d printers work (I am tired of writing this just asume I am doing this for the entire project - Day 5)
-- Worked On rails (Very Descriptive - Day 5)
-
-
-
-  
-</details>
-<details>
-<summary> Day 4, First Pass of Cad (pt.3), Feb 18, 2025 </summary>
-time: 5 hours
-
-Total Time 21 hours 50 mins
-
-Time : `Fusion360: 5 hours`
-
-
-Description: 
-- I worked on the moter mounts and the belt sytem (In other words I got nothing done - Day 5)
+### Description:  
+- Worked on motor mounts and the belt system (In other words, got nothing done - Day 5)
 
 ![image](https://github.com/user-attachments/assets/8f0a88ea-3b12-445a-a15e-870d6089a4c7)
 
-  
-</details>
-<details>
-<summary> Day 5, First Pass of Cad (pt.4), Feb 19, 2025 </summary>
-time: 3 hours
+---
 
-Total Time 24 hours 50 mins
+## Day 5: First Pass of CAD (pt.4) (Feb 19, 2025)
+**Time:** 3 hours  
+**Total Time:** 24 hours 50 mins  
+**Breakdown:** `Fusion360: 3 hours`
 
-Time : `Fusion360: 3 hours`
+### Description:  
+- Worked on motor mounts and the belt system
+- Showed how the belts will work
+- Started the base of the base (I am so funny)
 
+![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)  
+![image](https://github.com/user-attachments/assets/66e0e701-f7fa-48d8-8fda-166db0af255d)  
+(Don't you just love this fire hazard?)
 
-Description: 
-- I worked on the moter mounts and the belt sytem
-- showed how the belts will work
-- started the base of the base (I am soo funny)
+---
 
-![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)
-![image](https://github.com/user-attachments/assets/66e0e701-f7fa-48d8-8fda-166db0af255d)
- (Don't you just love this fire hazard)
-</details>
-<details>
-<summary> Day 6, First Pass of Cad (pt.5), Feb 20, 2025 </summary>
-time: 1 hours
+## Day 6: First Pass of CAD (pt.5) (Feb 20, 2025)
+**Time:** 1 hour  
+**Total Time:** 25 hours 50 mins  
+**Breakdown:** `Fusion360: 1 hour`
 
-Total Time 25 hours 50 mins
-
-Time : `Fusion360: 1 hours`
-
-
-Description: 
+### Description:  
 - Thought about a scissor lift mechanism for the bed
-- working on the bed
+- Working on the bed
 
 ![image](https://github.com/user-attachments/assets/c5e4eda4-13c7-4743-a105-31af20733f08)
 
+---
 
+## Day 7: First Pass of CAD (pt.6) & Some Research (Feb 21, 2025)
+**Time:** 3 hours  
+**Total Time:** 28 hours 50 mins  
+**Breakdown:** `Fusion360: 3 hours`
 
-</details>
-<details>
-<summary> Day 7, First Pass of Cad (pt.6) & some resaerch, Feb 21, 2025 </summary>
-time: 3 hours
+### Description:  
+- Thought about the 3D printer head
+- Settled on Ender 3 hotend because it's cheap and I don’t know what to look for
+- Probably using a Creality extruder because it's good enough and cheap
 
-Total Time 28 hours 50 mins
-
-Time : `Fusion360: 3 hours`
-
-
-Description: 
-- Thought about the 3d printer head
-- setteled on ender 3 hotend
-  - cheap (most important)
-  - I don't know what to look for
-- Probably gonna use an creality extruder bucuase
-   - good enough
-   - cheap
 ![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
 
+---
 
+## Day 8: No Time to Work on It (Feb 22, 2025)
+**Time:** 0 hours  
+**Total Time:** 28 hours 50 mins  
 
+### Description:  
+- I did nothing
 
-</details>
-<details>
-<summary> Day 8, No time to work on it, Feb 22, 2025 </summary>
-time: 0 hours
-
-Total Time 28 hours 50 mins
-
-
-
-Description: 
-- I did nothing 
 ![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
 
+---
 
+## Day 9: First Pass of CAD (pt.6) & PAIN (Feb 23, 2025)
+**Time:** 3 hours  
+**Total Time:** 31 hours 50 mins  
+**Breakdown:** `Fusion360: 3 hours`
 
+### Description:  
+- IDK how to make a printer head (I love being too stupid for this)
 
-</details>
-<details>
-<summary> Day 9, First Pass of Cad (pt.6) & PAIN, Feb 23, 2025 </summary>
-time: 3 hours
-
-Total Time 31 hours 50 mins
-
-Time : `Fusion360: 3 hours`
-
-Description: 
-- IDK how to make a printer head (I love being to stupid for this)
 ![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
 
+---
 
+## Day 10: First Pass of CAD (pt.7) But Mainly PAIN (Feb 24, 2025)
+**Time:** 3 hours  
+**Total Time:** 34 hours 50 mins  
+**Breakdown:** `Fusion360: 3 hours`
 
-
-
-</details>
-<details>
-<summary> Day 10, First Pass of Cad (pt.7) But Mainly PAIN, Feb 24, 2025 </summary>
-time: 3 hours
-
-Total Time 31 hours 50 mins
-
-Time : `Fusion360: 3 hours`
-
-![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
-
-Description: 
-- 
+### Description:  
 - Changed the rails
-- rail 3d prints
-- changed bed guides
-- added cutout in the back
-- Cried becuase I still am not even close to what I wanted today. if I had more time I would have gotten more done
+- Rail 3D prints
+- Changed bed guides
+- Added cutout in the back
+- Cried because I’m still not even close to what I wanted today
 
-Before:
-![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
-
-
-After:
+Before:  
+![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)  
+After:  
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
 
+---
 
+## Day 11: First Pass of CAD (pt.8) (Feb 25, 2025)
+**Time:** 3 hours  
+**Total Time:** 37 hours 50 mins  
+**Breakdown:** `Fusion360: 3 hours`
 
-</details>
-<details>
-<summary> Day 11, First Pass of Cad (pt.8), Feb 25, 2025 </summary>
-time: 3 hours
+### Description:  
+- Fixed a lot of errors and warnings
+- Started working more on the head
 
-Total Time 34 hours 50 mins
-
-Time : `Fusion360: 3 hours`
-
-Description: 
-- I fixed a lot of the errors and warnings
-- started to work more on the head
-
-Before:
-![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
-
-
-After:
+Before:  
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
+After:  
 ![image](https://github.com/user-attachments/assets/3905bee0-3666-49a8-ad22-a9b1c569a358)
 
+---
 
-</details>
-<details>
-<summary> Day 12, First Pass of Cad (pt.9), Feb 26, 2025 </summary>
-time: 2 hours
+## Day 12: First Pass of CAD (pt.9) (Feb 26, 2025)
+**Time:** 2 hours  
+**Total Time:** 39 hours 50 mins  
+**Breakdown:** `Fusion360: 2 hours`
 
-Total Time 36 hours 50 mins
+### Description:  
+- Worked on the head and finally created an actual design, YAY!
 
-Time : `Fusion360: 2 hours`
-
-Description: 
-- I worked on the head and final created an actual design YAY
-
-Before:
-![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
-
-
-After:
-![image](https://github.com/user-attachments/assets/d2100031-bdc8-4c58-a6fc-05330ed4038f)
-
-
-
-
-</details>
-<details>
-<summary> Day 13, First Pass of Cad (pt.11), Feb 27, 2025 </summary>
-time: 2 hours
-
-Total Time 36 hours 50 mins
-
-Time : `Fusion360: 2 hours`
-
-Description: 
-- I am almost done with the printer head YAY
+Head:
 
 ![image](https://github.com/user-attachments/assets/9b08d804-e991-49af-b912-ad73f4aa5afa)
 
 ![image](https://github.com/user-attachments/assets/bdbffdbb-9ca5-4aaa-b30f-744b097eefa4)
 
 
-Before:
-![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
 
+Before:  
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
+After:  
+![image](https://github.com/user-attachments/assets/d2100031-bdc8-4c58-a6fc-05330ed4038f)
 
-After:
-![image](https://github.com/user-attachments/assets/104b3294-c13b-4027-84e3-35332bd86d41)
-
-
-
-
-
-</details>
