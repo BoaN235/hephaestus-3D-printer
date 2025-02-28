@@ -229,6 +229,7 @@ After:
 
 ### Description:  
 - Worked on the head and finally created an actual design, YAY!
+- found a decent oled https://newhavendisplay.com/3-12-inch-white-graphic-oled-module/ 
 
 Head:
 
