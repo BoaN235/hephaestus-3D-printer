@@ -231,6 +231,7 @@ After:
 - Worked on the head and finally created an actual design, YAY!
 - found a decent oled https://newhavendisplay.com/3-12-inch-white-graphic-oled-module/ 
 
+
 Head:
 
 ![image](https://github.com/user-attachments/assets/9b08d804-e991-49af-b912-ad73f4aa5afa)
