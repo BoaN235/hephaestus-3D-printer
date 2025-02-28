@@ -3,7 +3,7 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 36 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 39 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
