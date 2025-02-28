@@ -14,6 +14,7 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 
 Nicknamed "fire hazard"
 
+
 ## Goals and Requirments
 - standard 235 x 235mm
 - CoreXY
@@ -301,4 +302,30 @@ After:
 
 
 </details>
+<details>
+<summary> Day 13, First Pass of Cad (pt.11), Feb 27, 2025 </summary>
+time: 2 hours
 
+Total Time 36 hours 50 mins
+
+Time : `Fusion360: 2 hours`
+
+Description: 
+- I am almost done with the printer head YAY
+
+![image](https://github.com/user-attachments/assets/9b08d804-e991-49af-b912-ad73f4aa5afa)
+
+![image](https://github.com/user-attachments/assets/bdbffdbb-9ca5-4aaa-b30f-744b097eefa4)
+
+
+Before:
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
+
+
+After:
+
+
+
+
+
+</details>
