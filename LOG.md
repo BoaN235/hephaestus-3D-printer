@@ -3,12 +3,12 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 39 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 41 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 33 hours 30 mins `
+  readme: 1 hour 25  min, Fusion360: 35 hours 30 mins `
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -222,7 +222,7 @@ After:
 
 ---
 
-## Day 12: First Pass of CAD (pt.9) (Feb 26, 2025)
+## Day 12: First Pass of CAD (pt.10) (Feb 26, 2025)
 **Time:** 2 hours  
 **Total Time:** 39 hours 50 mins  
 **Breakdown:** `Fusion360: 2 hours`
@@ -244,9 +244,20 @@ Before:
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
 After:  
 ![image](https://github.com/user-attachments/assets/6038ce0c-6480-4f90-bb42-6374280d5def)
-## Day 14: First Pass of CAD (pt.9) (Feb 28, 2025)
-**Time:** 2 hours  
+## Day 13: First Pass of CAD (pt.11) (Feb 27, 2025)
+**Time:** 0 hours  
 **Total Time:** 39 hours 50 mins  
+**Breakdown:** `Fusion360: 0 hours`
+
+### Description:  
+- I forgor to record what I did
+
+
+
+
+## Day 14: First Pass of CAD (pt.12) (Feb 28, 2025)
+**Time:** 2 hours  
+**Total Time:** 41 hours 50 mins  
 **Breakdown:** `Fusion360: 2 hours`
 
 ### Description:  
