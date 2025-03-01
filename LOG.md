@@ -244,5 +244,21 @@ Before:
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
 After:  
 ![image](https://github.com/user-attachments/assets/6038ce0c-6480-4f90-bb42-6374280d5def)
+## Day 14: First Pass of CAD (pt.9) (Feb 28, 2025)
+**Time:** 2 hours  
+**Total Time:** 39 hours 50 mins  
+**Breakdown:** `Fusion360: 2 hours`
+
+### Description:  
+- Worked on the head and finally created an actual design, YAY! More
+
+
+
+
+Before:  
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
+After:  
+![image](https://github.com/user-attachments/assets/aac0d988-3495-47eb-91bb-b7482babe412)
+
 
 
