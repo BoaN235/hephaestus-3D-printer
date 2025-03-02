@@ -270,6 +270,13 @@ Before:
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
 After:  
 ![image](https://github.com/user-attachments/assets/aac0d988-3495-47eb-91bb-b7482babe412)
+## Day 15: I worked on evreything but this (Mar 1, 2025)
+**Time:** 0 hours  
+**Total Time:** 41 hours 50 mins  
+**Breakdown:** `Fusion360: 0 hours`
+
+### Description:  
+- I worked on my sprig keyboard pcb and a second sprig game
 
 
 
