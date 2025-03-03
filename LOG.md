@@ -3,12 +3,12 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 41 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 49 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 35 hours 30 mins `
+  readme: 1 hour 25  min, Fusion360: 43 hours 30 mins `
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -275,8 +275,30 @@ After:
 **Total Time:** 41 hours 50 mins  
 **Breakdown:** `Fusion360: 0 hours`
 
+## Day 16: I worked on evreything but this (Mar 2, 2025)
+**Time:** 5 hours  
+**Total Time:** 46 hours 50 mins  
+**Breakdown:** `Fusion360: 5  hours`
+
 ### Description:  
-- I worked on my sprig keyboard pcb and a second sprig game
+- I worked on the BOM
+- I changed the Al exsteions from 4040 to 2020 to save A LOT of money
+
+Before:
+![image](https://github.com/user-attachments/assets/aac0d988-3495-47eb-91bb-b7482babe412)
+After:
+![image](https://github.com/user-attachments/assets/16e3e7f8-1345-44ed-9a4a-30bf309b3544)
 
 
 
+## Day 17: I worked on evreything but this (Mar 3, 2025)
+**Time:** 3 hours  
+**Total Time:** 49 hours 50 mins  
+**Breakdown:** `Fusion360: 3  hours`
+
+### Description:  
+- 
+
+Before:
+![image](https://github.com/user-attachments/assets/16e3e7f8-1345-44ed-9a4a-30bf309b3544)
+After:
