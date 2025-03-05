@@ -291,14 +291,16 @@ After:
 
 
 
-## Day 17: I worked on evreything but this (Mar 3, 2025)
+## Day 17 & 18: I worked on the BOM (Mar 3, 2025)
 **Time:** 3 hours  
 **Total Time:** 49 hours 50 mins  
 **Breakdown:** `Fusion360: 3  hours`
 
 ### Description:  
-- 
+- I created more 3d printed parts to save cost
+- I changed the exstrisons
 
 Before:
 ![image](https://github.com/user-attachments/assets/16e3e7f8-1345-44ed-9a4a-30bf309b3544)
 After:
+![image](https://github.com/user-attachments/assets/bc1afe04-8d42-4b23-be90-3380ec0c8528)
