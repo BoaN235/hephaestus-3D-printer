@@ -313,11 +313,16 @@ After:
 ### Description:  
 - Changed more parts out for 3d prints
 - Finaly finished z-axis
+- Made a video to show how it moves
 
 Before:
 ![image](https://github.com/user-attachments/assets/bc1afe04-8d42-4b23-be90-3380ec0c8528)
 After:
 ![image](https://github.com/user-attachments/assets/bcc58c6c-9f14-420c-8c26-4eb174189f0f)
+
+
+
+https://github.com/user-attachments/assets/869ef963-7504-4cd3-ad82-b9eeab38a7cb
 
 
 
