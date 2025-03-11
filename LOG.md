@@ -3,13 +3,13 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 49 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 63 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 45 hours 30 mins
-  BOM: 9 hours`
+  readme: 1 hour 25  min, Fusion360: 47 hours 30 mins
+  BOM: 10 hours`
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -352,11 +352,33 @@ Before:
 After:
 ![image](https://github.com/user-attachments/assets/5a919dec-8ea6-4886-87c8-452b833bb88c)
 
+## Day 21 & Day 22: Didn't get much done (Mar 8 & 9, 2025)
+**Time:** 0 hours  
+**Total Time:** 60 hours 50 mins  
+**Breakdown:** `BOM: 0  hours, Fusion360: 0 hours`
+
+### Description:  
+
+Before:
+![image](https://github.com/user-attachments/assets/f7cca281-aba0-485f-bbd2-3c5a534f95b6)
+After:
+![image](https://github.com/user-attachments/assets/5a919dec-8ea6-4886-87c8-452b833bb88c)
+
+## Day 20: I Fixed some small bugs in the model (I made many more) (Mar 10, 2025)
+**Time:** 5 hours  
+**Total Time:** 63 hours 50 mins  
+**Breakdown:** `BOM: 1  hours, Fusion360: 2  hours`
+
+### Description:  
+- Added an area for airflow
+- I am going to use wood for the bottem part
+
+Before:
+![image](https://github.com/user-attachments/assets/f7cca281-aba0-485f-bbd2-3c5a534f95b6)
+After:
+![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
 
 
-
-
-https://github.com/user-attachments/assets/869ef963-7504-4cd3-ad82-b9eeab38a7cb
 
 
 
