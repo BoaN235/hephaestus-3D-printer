@@ -377,7 +377,7 @@ Before:
 ![image](https://github.com/user-attachments/assets/f7cca281-aba0-485f-bbd2-3c5a534f95b6)
 After:
 ![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
-## Day 21 - 25: A lot of work I forgot to document(Mar 11 - 15, 2025)
+## Day 21 - 24: A lot of work I forgot to document(Mar 11 - 14, 2025)
 **Time:** 10 hours  
 **Total Time:** 73 hours 50 mins  
 **Breakdown:** `BOM: 4  hours, Fusion360: 6  hours`
@@ -389,6 +389,31 @@ Before:
 ![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
 After:
 ![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
+## Day 25: I went to scrapyard so no work(Mar 15, 2025)
+**Time:** 0 hours  
+**Total Time:** 73 hours 50 mins  
+**Breakdown:** `BOM: 0  hours, Fusion360: 0  hours`
+
+### Description:  
+ - I worked on reworking the rails system
+
+Before:
+![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
+After:
+![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
+## Day 26: almost done(Mar 16, 2025)
+**Time:** 3 hours  
+**Total Time:** 76 hours 50 mins  
+**Breakdown:** `BOM: 1  hours, Fusion360: 2  hours`
+
+### Description:  
+ - Almost done
+
+Before:
+![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
+After:
+![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
+
 
 
 
