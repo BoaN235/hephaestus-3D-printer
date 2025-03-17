@@ -8,8 +8,8 @@ Total time: 73 hours 50 mins (Idk how accurate this is probably pretty close tho
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 53 hours 30 mins
-  BOM: 14 hours`
+  readme: 1 hour 25  min, Fusion360: 55 hours 30 mins
+  BOM: 15 hours`
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -413,6 +413,23 @@ Before:
 ![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
 After:
 ![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
+## Day 27: almost done(Mar 17, 2025)
+**Time:** 3 hours  
+**Total Time:** 79 hours 50 mins  
+**Breakdown:** `BOM: 1  hours, Fusion360: 2  hours`
+
+### Description:  
+ - I made a pcb that I will add soon the the file
+ - finished the bom
+
+Before:
+![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
+After:
+![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
+
+
+
+
 
 
 
