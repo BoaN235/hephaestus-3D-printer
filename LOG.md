@@ -425,12 +425,19 @@ After:
 Before:
 ![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
 After:
-![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
+![image](https://github.com/user-attachments/assets/e554064e-b075-4968-a6bc-62a03cc3bc1f)
 
 
+PCB:
+![image](https://github.com/user-attachments/assets/052a2787-c08e-4301-a9f4-d49b9e2db1f4)
+
+![image](https://github.com/user-attachments/assets/96770b8f-29d5-458f-bdf2-bc32f72eee56)
 
 
+BOM:
+![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
 
+[BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
 
 
 
