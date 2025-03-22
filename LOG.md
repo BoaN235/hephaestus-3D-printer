@@ -6,10 +6,6 @@ Made by : Boa_N
 Total time: 73 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
-
-Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 55 hours 30 mins
-  BOM: 15 hours`
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -72,21 +68,23 @@ Day 1 - 3
 3 hour 20 min
 
 - Researched 3D printer fundamentals and started planning the project.
-
-- Chose the CoreXY system, developed a project logo, and began creating the design plan.
+- Chose the CoreXY system, developed a project logo, and began creating the design plan
+- I have very limmited expirence with 3d printing and do not currently own a 3d printer
+- created some base requirmetns for the printer and found stuff that would make the design esiair to create and manage
+- I setled on a skr e3v3 mini board with klipper running off a rasbery pie 5 that I already have
 
 ## CAD Design
 Day 4 - 16
 
 55 hours 30 min
 
-- Worked extensively on CAD models using Fusion360 for the printer frame, motor mounts, rails, and bed system.
+- Worked extensively on CAD models using Fusion360 for the printer frame, motor mounts, rails, and bed system
+- I Faced some challenges with designing the printer head and motor mounts but made steady progress on the frame and guides
+- Fixed multiple errors and finalized some parts of the design, including the hotend and extruder setup (Ender 3 hotend chosen for cost-effectiveness)
+- fixed the z-axis, airflow areas, and added additional cheaper parts for the design
+- The design has some major changes a lot when I find out a certin part has diffrint sizes that I didn't know about
 
-- Faced some challenges with designing the printer head and motor mounts but made steady progress on the frame and guides.
 
-- Fixed multiple errors and finalized some parts of the design, including the hotend and extruder setup (Ender 3 hotend chosen for cost-effectiveness).
-
-- fixed the z-axis, airflow areas, and added additional cheaper parts for the design.
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 ## BOM
 Day 17 - 23
@@ -94,9 +92,10 @@ Day 17 - 23
 15 hours
 
 
-- Created a Bill of Materials (BOM), sourcing 3D printable and wood parts to reduce costs.
+- Created a Bill of Materials (BOM), sourcing 3D printable and wood parts to reduce costs
 - some pieces are going to be made out of plywood for its strength compared to printed parts and affordibilty compared to metals
 - Most peices were sourced on amazon for cheap shipping and quick delivary
+- This took a long time to soruce cheap but good enough quality items
 
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
@@ -110,8 +109,18 @@ Day 24 - 25
     - One oled screen to dislplay things
     - 4 buttons which will be integrated into a shel
     - some pads to connect the board to the rasbery pie
+
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
+
+## Next Steps
+day +26
+?? hours
+
+- build the printer
+- settup the firmware
+- print a benchy?
+- Not blow up at least until I can print the benchy
 
 
 # Final Designs
