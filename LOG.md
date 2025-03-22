@@ -348,8 +348,6 @@ BOM:
 ## Research and Initial Design
 Day 1 - 3
 
-- I created an
-
 ## CAD Design
 Day 4 - 16
 
