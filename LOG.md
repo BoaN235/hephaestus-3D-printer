@@ -45,7 +45,7 @@ Nicknamed "fire hazard"
 - Started Development Plan
 - Chose a CoreXY Printer
 - Made a Logo  
-  ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
+
 
 ---
 
@@ -347,14 +347,18 @@ BOM:
 
 ## Research and Initial Design
 Day 1 - 3
+
 3 hour 20 min
+
 - Researched 3D printer fundamentals and started planning the project.
 
 - Chose the CoreXY system, developed a project logo, and began creating the design plan.
 
 ## CAD Design
 Day 4 - 16
+
 55 hours 30 min
+
 - Worked extensively on CAD models using Fusion360 for the printer frame, motor mounts, rails, and bed system.
 
 - Faced some challenges with designing the printer head and motor mounts but made steady progress on the frame and guides.
@@ -365,7 +369,9 @@ Day 4 - 16
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 ## BOM
 Day 17 - 23
+
 15 hours
+
 
 - Created a Bill of Materials (BOM), sourcing 3D printable and wood parts to reduce costs.
 
@@ -373,7 +379,9 @@ Day 17 - 23
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
 ## PCB
 Day 24 - 25
+
 4 hours
+
 - Designed a custom PCB to integrate into the printer, with final designs and components completed.
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
@@ -420,3 +428,51 @@ Day 24 - 25
 ### PCB
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
+
+## Extra Images
+-   ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
+-   ![image](https://github.com/user-attachments/assets/6168a315-c366-44c5-9f3e-1e91dfaf7aa6)
+-   ![image](https://github.com/user-attachments/assets/d439d189-1dd7-40c3-bdb7-1f0d3a479f8f)
+-   ![image](https://github.com/user-attachments/assets/ef795fc2-382b-4f55-8a66-8f5d1f46e804)
+-   ![image](https://github.com/user-attachments/assets/e43e718b-fd0b-49b0-a1b6-a99d37637dd9)
+-   ![image](https://github.com/user-attachments/assets/b2814bee-5250-474f-b61d-6e0d8a648dc6)
+-   ![image](https://github.com/user-attachments/assets/93e6bbb7-50ae-45d9-9ba3-6a2be9857778)
+-   ![image](https://github.com/user-attachments/assets/6130eb2a-aafb-473c-a290-acfb7f03e8f6)
+-   ![image](https://github.com/user-attachments/assets/dadcb7d3-2ebd-407c-b326-1f0bddb72167)
+-   ![image](https://github.com/user-attachments/assets/94ef4c75-8e56-4939-94b6-7cf5bfbb06a2)
+-   ![image](https://github.com/user-attachments/assets/d6388955-e8d8-45c4-953d-bc6277a076d1)
+-   ![image](https://github.com/user-attachments/assets/08c9b9d6-2ab3-4f59-9e62-839deb1c74b8)
+-   ![image](https://github.com/user-attachments/assets/34a8eb72-ca87-46c2-8691-7414e89620f0)
+-   ![image](https://github.com/user-attachments/assets/e760a701-a63e-4d16-8132-ee60df02ab74)
+-   ![image](https://github.com/user-attachments/assets/6a322223-9009-45d6-95e4-3bd0fa30d174)
+-   ![image](https://github.com/user-attachments/assets/b7a2c380-dbbf-4373-9c48-f835f2b049b8)
+-   ![image](https://github.com/user-attachments/assets/eb866376-9126-4b69-8415-511ec9b446d6)
+-   ![image](https://github.com/user-attachments/assets/2366b88f-2c59-499b-92b6-f4e2f83d3291)
+-   ![image](https://github.com/user-attachments/assets/d59b2584-5690-4650-b00c-f67c7d40b959)
+-   ![image](https://github.com/user-attachments/assets/1b8c59c6-312f-47af-8fe7-f55df836b43d)
+-   ![image](https://github.com/user-attachments/assets/f15afea5-1e5e-4722-8b7a-a469181de6fb)
+-   ![image](https://github.com/user-attachments/assets/4d6fe74c-a487-4da5-a1e5-8c96762274c8)
+-   ![image](https://github.com/user-attachments/assets/5b6fcfc5-32f1-43a0-ab2a-4f8f263ccabb)
+-   ![image](https://github.com/user-attachments/assets/3f0cd57f-784e-4dce-8d38-660b37d7eea5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
