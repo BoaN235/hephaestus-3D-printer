@@ -346,31 +346,34 @@ BOM:
 # Log
 
 ## Research and Initial Design
+Day 1 - 3
+
 
 ## CAD Design
-
+Day 4 - 16
 
 
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
-## PCB
-
-
-![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
-![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
 ## BOM
-
+Day 17 - 23
 
 
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
+## PCB
+Day 24 - 25
+
+![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
+![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
+
 
 # Final Designs
 
 ### CAD
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
-### PCB
-![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
-![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
 ### BOM
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
+### PCB
+![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
+![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
