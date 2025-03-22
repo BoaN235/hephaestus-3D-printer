@@ -347,21 +347,30 @@ BOM:
 
 ## Research and Initial Design
 Day 1 - 3
+- Researched 3D printer fundamentals and started planning the project.
+
+- Chose the CoreXY system, developed a project logo, and began creating the design plan.
 
 ## CAD Design
 Day 4 - 16
+- Worked extensively on CAD models using Fusion360 for the printer frame, motor mounts, rails, and bed system.
 
+- Faced some challenges with designing the printer head and motor mounts but made steady progress on the frame and guides.
 
+- Fixed multiple errors and finalized some parts of the design, including the hotend and extruder setup (Ender 3 hotend chosen for cost-effectiveness).
+
+- Finalized the z-axis, airflow areas, and additional parts for the design.
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 ## BOM
 Day 17 - 23
 
+- Created a Bill of Materials (BOM), sourcing 3D printable and wood parts to reduce costs.
 
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
 ## PCB
 Day 24 - 25
-
+- Designed a custom PCB to integrate into the printer, with final designs and components completed.
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
 
