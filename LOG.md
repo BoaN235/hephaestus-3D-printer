@@ -86,7 +86,7 @@ Day 4 - 16
 
 - Fixed multiple errors and finalized some parts of the design, including the hotend and extruder setup (Ender 3 hotend chosen for cost-effectiveness).
 
-- Finalized the z-axis, airflow areas, and additional parts for the design.
+- fixed the z-axis, airflow areas, and added additional cheaper parts for the design.
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 ## BOM
 Day 17 - 23
@@ -95,6 +95,8 @@ Day 17 - 23
 
 
 - Created a Bill of Materials (BOM), sourcing 3D printable and wood parts to reduce costs.
+- some pieces are going to be made out of plywood for its strength compared to printed parts and affordibilty compared to metals
+- Most peices were sourced on amazon for cheap shipping and quick delivary
 
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
@@ -103,7 +105,11 @@ Day 24 - 25
 
 4 hours
 
-- Designed a custom PCB to integrate into the printer, with final designs and components completed.
+- Created a pcb to be used as a controll pannel on the front
+- it includes 
+    - One oled screen to dislplay things
+    - 4 buttons which will be integrated into a shel
+    - some pads to connect the board to the rasbery pie
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
 
