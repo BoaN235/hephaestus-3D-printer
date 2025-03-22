@@ -22,53 +22,20 @@ Nicknamed "fire hazard"
 - Enclosed
 - at least 150mm/s
 - Klipper
-- Under $250 (is under $200 worth the pain?)
 - Open-Source
 - won't burn my house down (I hope)
-- Rigid for good printing qualtiy (Shut up I spelled that right. YOU ARE THE WRONG ONE)
+- Rigid for good printing qualtiy
 - A Cool Logo Embossed somewhere
-- RGB lights (Gamer 3D Printer Guys)
+- RGB lights
 
 ## Helpfull Resources
 - www.matterhackers.com/articles/anatomy-of-a-3d-printer
 
 ## BOM (Bill Of Materials) Not Updated
-| Part                       | Price    | Link                                                                              | received | amount |
-|----------------------------|----------|-----------------------------------------------------------------------------------|----------|--------|
-| BIGTREETECH SKR E3 Mini V3 | $43.99     | [Amazon](https://www.amazon.com/BIGTREETECH-Control-TMC2209-Stepper-Upgrade/dp/B09LC34SCK?crid=W2IEEOBPTD2Q&dib=eyJ2IjoiMSJ9.oREwc4cixnNjyRT8KSgIvmfQLxXW2kwyvU-gqkBTuC6p7XnFI-3ipDJSwGVEIsx9TxF7p-Nyxb8Uh8VMmrpRzfOnXO01QdU6KfwnVil75fcBAfjWUjXnsaW6N4hYC3VScNHEP3sTmdlis47SQh4uYOfxoj590sAHLlpTuTJtgLNoUQw6xsbder_48m6K7lRDslPkIfK7Km-Ym6MoR4dLvgczlQazuIuOECl17SbgTSC9JY5APnOn-ghjTQA9ZlQx4yWU9Xx7XD5rPY5s0efVNJd0cLk_CT0SxqijH5s2WfQk3qr0iaW8biCUJfVC5Xbq5t0X0jkdKnjuRgcUAUkvaiM3Ii-ScJa1OsD3JU8nhlI._8BwwAVF5HgOOpRhFfdbnjqZBaFlCVKUZJQfPUq5uWI&dib_tag=se&keywords=BIGTREETECH%2BSKR%2BE3%2BMini%2BV3&qid=1739671535&s=industrial&sprefix=bigtreetech%2Bskr%2Be3%2Bmini%2Bv3%2Cindustrial%2C98&sr=1-1&th=1)   | No       | 1      |
-| NEMA 17 Stepper Motor      | $13.99   | [Amazon](https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-Connector-compatible/dp/B00PNEQKC0?crid=28YIV9UWDOYVC&dib=eyJ2IjoiMSJ9.hN-9QQUUabt-Xybqh_2hedhFHPvK1pTVCd5uyreCUliuDJ2S5byqiO1IfSuqQUb14hasG3lyUkQQB0nDBA40L8HtAOZl_MAYQ4gSG002upd3nyfDDeX_z7mAkzbxI9xbnPEh4e)   | No       | 3      |
-| Linear Rail Steel Carrige  | $16.99    | [Amazon](https://www.amazon.com/Linear-Stainless-Carriage-Printer-Machines/dp/B0D9D6BM4W?crid=1U4HVE0WN0XXH&dib=eyJ2IjoiMSJ9.0_J6e1kMLtfpfHVJRaul5GvTx-f9K4my0dPr2hkFv5MlR0_7q0G0iNmoXWWIoV96yzNk6gHnr5-TYxtl_3xU9gZi2w5sUq5lrIktkEg1tg3jcU-La1dx5-8Up4ubVHSt3lAWqcNElb4kYOTgXHjSfIGvRjSBWr8o-UntZSbR604b5Pk3StPRQrjmUKyWAjUPyt21uOvyNKMEQddteVH7fxqgVBDVmyYxIGnEDTclrfQ.5C6JxQYOdEWZTg9nEEya5ECkjuAXU23HSvFhejxe-FA&dib_tag=se&keywords=1%2Blinear%2Bguide%2B1%2Bcarriage%2B3D%2BPrinter%2Bpart%2BMGN7C%2BMGN9C%2BMGN12H%2BMGN15C%2Bminiature%2Blinear%2Brail%2Bslide%2B200mm&qid=1739670892&sprefix=1%2Blinear%2Bguide%2B1%2Bcarriage%2B3d%2Bprinter%2Bpart%2Bmgn7c%2Bmgn9c%2Bmgn12h%2Bmgn15c%2Bminiature%2Blinear%2Brail%2Bslide%2B200mm%2Caps%2C59&sr=8-3&th=1) | No | 1
-| 10M Timing Belt | $12.99 | [Amazon](https://www.amazon.com/Upgrade-Non-Slip-Version-Printer-Printers/dp/B0CLFSNKV9?crid=F6YRS6W85F5T&dib=eyJ2IjoiMSJ9.Icd2I8efneqJfkqiZxZdTXVwDKog8Pb7OPVewfgdBuccPx0v97P8cuY3na1ewYBB9IUQ2by-f-OIQ5v5e_mraf2bYVBupNjQlfGLAZXvTpZyMy5sj53PJp8v_jq-IEHbL1cLJDGJtlE6qbK05UycxdTZMiuQKakiXF9i1OBenJFd_Wb9oYJkjEmq-4qKXIGY28_J-_CWPRdxRt2ckCgMPkJiBQ4MWcXWMy_AHap7K1HOoQw5bZtgItg62BD3zqecIl4DOqRi0VE1yR9WzPApa-T9n1U-CRlXt4jDgEA4J89WkTpS4IUdoO__1DjOzErO1rfJLTL7qdNyUWi3jJjeZquQgm6l0AuhPbGbhWNXtTM.yZJx-hKQrS1Zr-G689tmDanyZwGvpW45gLQr1pjYxD0&dib_tag=se&keywords=Belt%2Bfor%2B3d%2Bprinter&qid=1739671832&s=industrial&sprefix=belt%2Bfor%2B3d%2Bprinte%2Cindustrial%2C85&sr=1-5&th=1) | No | 1
-| Pully Teeth 4mm Bore 6mm | $5.99 | [Amazon](https://www.amazon.com/WINSINN-Aluminum-Synchronous-Timing-Printer/dp/B07CXM1PP4?crid=33E6S9IJ81SKV&dib=eyJ2IjoiMSJ9.gvQ_LHP9h1Td42MvomH2_gC8ndFNdQysG5sjhRb2WsWmSJPImEuZo-NyVAg7VzjhAXiYjgng6TD-OiRyXQhJS6eWTVRSPbGjTo2X2bxH8-HFGb2am8bA5m8a2Cy8xa8niyrFNAlUMMoc1QjoiXHxaH_oxjEF-t01tI9Pik4dqfa5Bbh3ocGO553R0hrEKudnldufQuGXL8p1RI2fJncP2d86kc0pkEURnuPyTpm57mXWxkdihXg5vsFHm1wqyaXPVET67KzunwS_UrgIoson_3MOQh3Oy1K8AopVonVlk5UcxTvcGcRyUTjvVbTbCdaDouCdoSk_rm3lsTlv9qnsk_qVkxaOptEVB7cC6eNejfk.K7BPqlGJBYuFEErYl1th0I3KZqRWYz_wu-0w-ixNPfU&dib_tag=se&keywords=belt%2Bpulley%2Bwheels%2BTeeth&qid=1739672033&s=industrial&sprefix=belt%2Bpulley%2Bwheels%2Bteeth%2Cindustrial%2C58&sr=1-5&th=1) | No | 3
-
-
-## Development Plan 
-- Step 1 Start (this isen't in order)
-  - [x] create a cohesive plan 
-  - [x] resarch design choices
-  - [x] resarch 3d printers
-- Step 2 Research Parts
-  - [ ] Bed & Bed Surface
-  - [ ] Cooling fan, Hot end, Nozzle, 
-  - [x] Stepper Moters, Belts & Belt Pullys
-  - [ ] Controller Board, Power Supply, SD Card Slot
-  - [ ] Frame
-- Step 3 CAD Design
-  - [ ] Research how designs fit together
-  - [ ] Design the printer
-- Step 4 Firmware
-  - [ ] Research how to use Klipper
-  - [ ] Setup the Firmware
-- Step 5 Sumbit & Order
-  - [ ] Get the Infill Grant
-  - [ ] Order the Parts
-- Step 6 Assembly & Testing
-  - [ ] Test the printers ability
-  - [ ] Make a Benchy
 
 # Log
 
-## Day 1: Research & Set Up (Feb 15, 2025)
+## Day 1: Research (Feb 15, 2025)
 **Time:** 2 hours 50 min  
 **Total Time:** 2 hours 50 min  
 **Breakdown:** `research: 1 hour 55 min, readme: 55 min`
@@ -82,7 +49,7 @@ Nicknamed "fire hazard"
 
 ---
 
-## Day 2: First Pass of CAD (pt.1) (Feb 16, 2025)
+## Day 2: CAD design (Feb 16, 2025)
 **Time:** 6 hours  
 **Total Time:** 8 hours 50 mins  
 **Breakdown:** `research: 1 hour, readme: 30 mins, Fusion360: 4 hours 30 mins`
@@ -97,7 +64,7 @@ Nicknamed "fire hazard"
 
 ---
 
-## Day 3: First Pass of CAD (pt.2) (Feb 17, 2025)
+## Day 3: CAD design (Feb 17, 2025)
 **Time:** 8 hours  
 **Total Time:** 16 hours 50 mins  
 **Breakdown:** `Fusion360: 8 hours`
@@ -110,7 +77,7 @@ Nicknamed "fire hazard"
 
 ---
 
-## Day 4: First Pass of CAD (pt.3) (Feb 18, 2025)
+## Day 4: CAD design (Feb 18, 2025)
 **Time:** 5 hours  
 **Total Time:** 21 hours 50 mins  
 **Breakdown:** `Fusion360: 5 hours`
@@ -160,17 +127,6 @@ Nicknamed "fire hazard"
 - Thought about the 3D printer head
 - Settled on Ender 3 hotend because it's cheap and I don’t know what to look for
 - Probably using a Creality extruder because it's good enough and cheap
-
-![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
-
----
-
-## Day 8: No Time to Work on It (Feb 22, 2025)
-**Time:** 0 hours  
-**Total Time:** 28 hours 50 mins  
-
-### Description:  
-- I did nothing
 
 ![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
 
@@ -271,25 +227,6 @@ Before:
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
 After:  
 ![image](https://github.com/user-attachments/assets/aac0d988-3495-47eb-91bb-b7482babe412)
-## Day 15: I worked on evreything but this (Mar 1, 2025)
-**Time:** 0 hours  
-**Total Time:** 41 hours 50 mins  
-**Breakdown:** `Fusion360: 0 hours`
-
-## Day 16: I worked on evreything but this (Mar 2, 2025)
-**Time:** 5 hours  
-**Total Time:** 46 hours 50 mins  
-**Breakdown:** `Fusion360: 5  hours`
-
-### Description:  
-- I worked on the BOM
-- I changed the Al exsteions from 4040 to 2020 to save A LOT of money
-
-Before:
-![image](https://github.com/user-attachments/assets/aac0d988-3495-47eb-91bb-b7482babe412)
-After:
-![image](https://github.com/user-attachments/assets/16e3e7f8-1345-44ed-9a4a-30bf309b3544)
-
 
 
 ## Day 17 & 18: I worked on the BOM (Mar 3 & 4, 2025)
@@ -352,18 +289,6 @@ Before:
 After:
 ![image](https://github.com/user-attachments/assets/5a919dec-8ea6-4886-87c8-452b833bb88c)
 
-## Day 21 & Day 22: Didn't get much done (Mar 8 & 9, 2025)
-**Time:** 0 hours  
-**Total Time:** 60 hours 50 mins  
-**Breakdown:** `BOM: 0  hours, Fusion360: 0 hours`
-
-### Description:  
-
-Before:
-![image](https://github.com/user-attachments/assets/f7cca281-aba0-485f-bbd2-3c5a534f95b6)
-After:
-![image](https://github.com/user-attachments/assets/5a919dec-8ea6-4886-87c8-452b833bb88c)
-
 ## Day 20: I Fixed some small bugs in the model (I made many more) (Mar 10, 2025)
 **Time:** 5 hours  
 **Total Time:** 63 hours 50 mins  
@@ -377,30 +302,7 @@ Before:
 ![image](https://github.com/user-attachments/assets/f7cca281-aba0-485f-bbd2-3c5a534f95b6)
 After:
 ![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
-## Day 21 - 24: A lot of work I forgot to document(Mar 11 - 14, 2025)
-**Time:** 10 hours  
-**Total Time:** 73 hours 50 mins  
-**Breakdown:** `BOM: 4  hours, Fusion360: 6  hours`
 
-### Description:  
- - I worked on reworking the rails system
-
-Before:
-![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
-After:
-![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
-## Day 25: I went to scrapyard so no work(Mar 15, 2025)
-**Time:** 0 hours  
-**Total Time:** 73 hours 50 mins  
-**Breakdown:** `BOM: 0  hours, Fusion360: 0  hours`
-
-### Description:  
- - I worked on reworking the rails system
-
-Before:
-![image](https://github.com/user-attachments/assets/ee29fc46-aa53-4e4b-bbb1-77f26c8e0566)
-After:
-![image](https://github.com/user-attachments/assets/766a61cd-534f-4927-bbc1-6c5a9f05488e)
 ## Day 26: almost done(Mar 16, 2025)
 **Time:** 3 hours  
 **Total Time:** 76 hours 50 mins  
@@ -441,8 +343,15 @@ BOM:
 
 
 
+# Log
 
+## Research and Initial Design
 
+## CAD Design
+
+## PCB
+
+## BOM
 
 
 
