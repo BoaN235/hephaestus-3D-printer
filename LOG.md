@@ -64,14 +64,14 @@ Nicknamed "fire hazard"
 
 ## Research and Initial Design
 Day 1 - 3
-
+Feb 15 - Feb 17 2025
 3 hour 20 min
 
 Over the first three days, I conducted extensive research on 3D printer fundamentals and began planning the project. With very limited experience in 3D printing and no current access to a printer, I focused on understanding core design principles. I decided on using a CoreXY system and developed a project logo while outlining the initial design plan. To simplify the build and enhance manageability, I established some base requirements and identified components that would make construction easier. After evaluating different control boards, I settled on the SKR E3 V3 Mini, running Klipper on a Raspberry Pi 5, which I already had on hand.
 
 ## CAD Design
 Day 4 - 16
-
+Feb 18 - Mar 2 2025
 55 hours 30 min
 
 This was a long process, as I had never designed such a complicated system before. I used Fusion 360 for the design. Initially, I started with the frame using 4040 extrusions but later switched to 2020 extrusions to reduce costs. I designed the print head and Z-axis last, as they were among the most complex parts. The print head, in particular, was challenging because it required multiple intricate components to fit together precisely. Throughout the process, I faced many challenges—most of the parts I initially selected were the wrong size or too expensive, forcing me to refine the model multiple times. Despite these difficulties, this project taught me a lot about designing complex systems.
@@ -80,7 +80,7 @@ This was a long process, as I had never designed such a complicated system befor
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 ## BOM
 Day 17 - 23
-
+Mar 3 - Mar 15 2025
 15 hours
 
 Day 17 to 23, I compiled a detailed Bill of Materials (BOM), focusing on cost-effective sourcing strategies. To reduce expenses, I opted to 3D print some parts while using plywood for others due to its strength compared to printed components and its affordability relative to metal alternatives. Most of the required parts were sourced from Amazon to take advantage of cheap shipping and fast delivery. The process of finding affordable yet high-quality components took considerable time, but it ensured that the build would be both efficient and budget-friendly.
@@ -89,6 +89,7 @@ Day 17 to 23, I compiled a detailed Bill of Materials (BOM), focusing on cost-ef
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
 ## PCB
 Day 24 - 25
+Mar 16 - Mar 17 2025
 
 4 hours
 
