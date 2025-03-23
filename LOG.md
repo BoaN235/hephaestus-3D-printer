@@ -74,11 +74,7 @@ Day 4 - 16
 
 55 hours 30 min
 
-- Worked extensively on CAD models using Fusion360 for the printer frame, motor mounts, rails, and bed system
-- I Faced some challenges with designing the printer head and motor mounts but made steady progress on the frame and guides
-- Fixed multiple errors and finalized some parts of the design, including the hotend and extruder setup (Ender 3 hotend chosen for cost-effectiveness)
-- fixed the z-axis, airflow areas, and added additional cheaper parts for the design
-- The design has some major changes a lot when I find out a certin part has diffrint sizes that I didn't know about
+This was a long process, as I had never designed such a complicated system before. I used Fusion 360 for the design. Initially, I started with the frame using 4040 extrusions but later switched to 2020 extrusions to reduce costs. I designed the print head and Z-axis last, as they were among the most complex parts. The print head, in particular, was challenging because it required multiple intricate components to fit together precisely. Throughout the process, I faced many challenges—most of the parts I initially selected were the wrong size or too expensive, forcing me to refine the model multiple times. Despite these difficulties, this project taught me a lot about designing complex systems.
 
 
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
