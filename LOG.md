@@ -67,11 +67,7 @@ Day 1 - 3
 
 3 hour 20 min
 
-- Researched 3D printer fundamentals and started planning the project.
-- Chose the CoreXY system, developed a project logo, and began creating the design plan
-- I have very limmited expirence with 3d printing and do not currently own a 3d printer
-- created some base requirmetns for the printer and found stuff that would make the design esiair to create and manage
-- I setled on a skr e3v3 mini board with klipper running off a rasbery pie 5 that I already have
+Over the first three days, I conducted extensive research on 3D printer fundamentals and began planning the project. With very limited experience in 3D printing and no current access to a printer, I focused on understanding core design principles. I decided on using a CoreXY system and developed a project logo while outlining the initial design plan. To simplify the build and enhance manageability, I established some base requirements and identified components that would make construction easier. After evaluating different control boards, I settled on the SKR E3 V3 Mini, running Klipper on a Raspberry Pi 5, which I already had on hand.
 
 ## CAD Design
 Day 4 - 16
@@ -91,11 +87,7 @@ Day 17 - 23
 
 15 hours
 
-
-- Created a Bill of Materials (BOM), sourcing 3D printable and wood parts to reduce costs
-- some pieces are going to be made out of plywood for its strength compared to printed parts and affordibilty compared to metals
-- Most peices were sourced on amazon for cheap shipping and quick delivary
-- This took a long time to soruce cheap but good enough quality items
+Day 17 to 23, I compiled a detailed Bill of Materials (BOM), focusing on cost-effective sourcing strategies. To reduce expenses, I opted to 3D print some parts while using plywood for others due to its strength compared to printed components and its affordability relative to metal alternatives. Most of the required parts were sourced from Amazon to take advantage of cheap shipping and fast delivery. The process of finding affordable yet high-quality components took considerable time, but it ensured that the build would be both efficient and budget-friendly.
 
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
@@ -104,11 +96,7 @@ Day 24 - 25
 
 4 hours
 
-- Created a pcb to be used as a controll pannel on the front
-- it includes 
-    - One oled screen to dislplay things
-    - 4 buttons which will be integrated into a shel
-    - some pads to connect the board to the rasbery pie
+On day 24, I designed a custom PCB to serve as a control panel mounted on the front of the printer. This board features an OLED screen for displaying information, four integrated buttons housed within a shell, and connection pads for linking it to the Raspberry Pi. The PCB design enhances the user interface and accessibility of the printer, ensuring a smoother operation experience.
 
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
