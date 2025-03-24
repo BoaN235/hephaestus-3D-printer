@@ -79,6 +79,8 @@ Feb 18 - Mar 2 2025
 55 hours 30 min
 
 This was a long process, as I had never designed such a complicated system before. I used Fusion 360 for the design. Initially, I started with the frame using 4040 extrusions but later switched to 2020 extrusions to reduce costs. I designed the print head and Z-axis last, as they were among the most complex parts. The print head, in particular, was challenging because it required multiple intricate components to fit together precisely. Throughout the process, I faced many challenges—most of the parts I initially selected were the wrong size or too expensive, forcing me to refine the model multiple times. Despite these difficulties, this project taught me a lot about designing complex systems.
+1. I started by working on the frame. I started the frame using 4040 extsrusion until I relized its like a 40 dollar diffrince if I use 2020 extrusions which I found way later.
+2. 
 
 
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
