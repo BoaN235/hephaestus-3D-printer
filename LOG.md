@@ -79,20 +79,28 @@ Feb 18 - Mar 2 2025
 55 hours 30 min
 
 This was a long process, as I had never designed such a complicated system before. I used Fusion 360 for the design. Initially, I started with the frame using 4040 extrusions but later switched to 2020 extrusions to reduce costs. I designed the print head and Z-axis last, as they were among the most complex parts. The print head, in particular, was challenging because it required multiple intricate components to fit together precisely. Throughout the process, I faced many challenges—most of the parts I initially selected were the wrong size or too expensive, forcing me to refine the model multiple times. Despite these difficulties, this project taught me a lot about designing complex systems.
-1. I started by working on the frame. I started the frame using 4040 extsrusion until I relized its like a 40 dollar diffrince if I use 2020 extrusions which I found way later. 10 hours![image](https://github.com/user-attachments/assets/997d729a-e205-4ada-a371-6f5eab1e92c5)
+1. I started by working on the frame. I started the frame using 4040 extsrusion until I relized its like a 40 dollar diffrince if I use 2020 extrusions which I found way later. 10 hours
+
+![image](https://github.com/user-attachments/assets/997d729a-e205-4ada-a371-6f5eab1e92c5)
 
 
-2. I worked on mounting the moters. I chose to put the moters on top of the extrusions for a "cleaner" look. turns out this makes the entire printer much harder to design. This includes the carriage and belt system. This took around 12 hours ![image](https://github.com/user-attachments/assets/95852c5d-2dc7-4dc6-aa84-91e5582ecb82)
+2. I worked on mounting the moters. I chose to put the moters on top of the extrusions for a "cleaner" look. turns out this makes the entire printer much harder to design. This includes the carriage and belt system. This took around 12 hours 
 
-3. I created the printer head which took way longer than I want to admit to start. I have never designed something like this before which was a major challange. It is very hard to design around multiple diffrint parts and get them to fit all together however I did get it to work. This took around 12 hours. ![image](https://github.com/user-attachments/assets/c32d5ffa-7a74-47c3-9e08-c8916cd33d6b)
+![image](https://github.com/user-attachments/assets/95852c5d-2dc7-4dc6-aa84-91e5582ecb82)
 
-4. I added the z-axis moter and the base plate. The printer will have around a 250x250 build area. This part was not that hard to create. 5.5 hours ![image](https://github.com/user-attachments/assets/feee384d-710d-4392-a0e2-f87fb625213b)
+3. I created the printer head which took way longer than I want to admit to start. I have never designed something like this before which was a major challange. It is very hard to design around multiple diffrint parts and get them to fit all together however I did get it to work. This took around 12 hours. 
 
-5. I worked on adding some cosmetic feauters to give my printer a clean look. I also added some areas to allow for airflow to go over the electronics inside. 4 hours ![image](https://github.com/user-attachments/assets/7b8b18a8-df80-44c5-a5ba-b761475a920a)
+![image](https://github.com/user-attachments/assets/c32d5ffa-7a74-47c3-9e08-c8916cd33d6b)
+
+4. I added the z-axis moter and the base plate. The printer will have around a 250x250 build area. I had a hard time creating a part that would support the plate in all the places it needed to. This part was not that hard to create. 5.5 hours 
+
+![image](https://github.com/user-attachments/assets/feee384d-710d-4392-a0e2-f87fb625213b)
+
+5. I worked on adding some cosmetic feauters to give my printer a clean look. I also added some areas to allow for airflow to go over the electronics inside. I added that can hold lights that will be added later and connected to the rasbery pie. I also added a box around the pcb and base for a cleaner astetch. 4 hours 
+
+![image](https://github.com/user-attachments/assets/7b8b18a8-df80-44c5-a5ba-b761475a920a)
 
 6. At the end I just did some genral work to make evreything cleaner and work better this took the rest of the time on the cad design. 12 hours
-
-
 
 ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 ## BOM
