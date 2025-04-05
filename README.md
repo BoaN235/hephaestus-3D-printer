@@ -142,7 +142,10 @@ day +26
 # Final Designs
 
 ### CAD
-![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
+![image](https://github.com/user-attachments/assets/8532cc95-e560-487e-b07a-71e8a970a2b3)
+![image](https://github.com/user-attachments/assets/61249f3f-0943-4df9-8d12-89c71d15f4b3)
+
+
 ### BOM
 ![image](https://github.com/user-attachments/assets/4d35a375-5896-4ad1-82a3-d5ad10954260)
 [BOM](https://1drv.ms/x/s!AtB5HagkhaZKhNYfKxltnQ1aC1ww8Q?e=Vdj45F)### PCB
@@ -174,3 +177,24 @@ day +26
 -   ![image](https://github.com/user-attachments/assets/4d6fe74c-a487-4da5-a1e5-8c96762274c8)
 -   ![image](https://github.com/user-attachments/assets/5b6fcfc5-32f1-43a0-ab2a-4f8f263ccabb)
 -   ![image](https://github.com/user-attachments/assets/3f0cd57f-784e-4dce-8d38-660b37d7eea5)
+-   ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
+-   ![image](https://github.com/user-attachments/assets/8532cc95-e560-487e-b07a-71e8a970a2b3)
+-   ![image](https://github.com/user-attachments/assets/a99ccc60-55d5-4be6-a1a4-11cea77aa16c)
+
+
+## asembly 
+
+### Extrusion Lenghts
+5x 320 mm 32 cm 12.5984 inchs
+2x 100 mm 10 cm 3.93701 inchs
+2x 440 mm 44 cm 17.3228 inchs
+2x 490 mm 49 cm 19.2913 inchs
+
+### Printed parts 
+2x side pecies
+2x head rail holders
+1x front head
+1x back head
+2x moter mounts
+4x top holders
+2x rail covers
