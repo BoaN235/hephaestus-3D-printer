@@ -133,10 +133,7 @@ day +26
 
 ?? hours
 
-- build the printer
-- settup the firmware
-- print a benchy?
-- Not blow up at least until I can print the benchy
+  I started to build the printer. I cut the base of the wood then cut 4 peices at 490mm and 8 at 320mm.
 
 
 # Final Designs
@@ -180,6 +177,8 @@ day +26
 -   ![image](https://github.com/user-attachments/assets/a2535de6-c940-46b8-b84a-d7ae3bfd1776)
 -   ![image](https://github.com/user-attachments/assets/8532cc95-e560-487e-b07a-71e8a970a2b3)
 -   ![image](https://github.com/user-attachments/assets/a99ccc60-55d5-4be6-a1a4-11cea77aa16c)
+-   ![image](https://github.com/user-attachments/assets/7434edc6-0ff0-49ec-808f-5fb3efbb3f89)
+
 
 
 ## asembly 
