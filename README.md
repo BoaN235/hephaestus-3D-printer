@@ -197,3 +197,5 @@ day +26
 2x moter mounts
 4x top holders
 2x rail covers
+
+the diffrince is like 80mm
