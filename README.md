@@ -135,6 +135,34 @@ day +26
 
   I started to build the printer. I cut the base of the wood then cut 4 peices at 490mm and 8 at 320mm.
 
+![img_20250426_182509](https://github.com/user-attachments/assets/5e63754e-05c7-4051-8868-6f09e04aafb8)
+
+
+https://github.com/user-attachments/assets/e6f3f98b-c9fa-496d-b411-4481a0ec2bbb
+
+![1000021381](https://github.com/user-attachments/assets/06904883-b63a-41a8-b912-a049bbfd2fd2)
+![1000021380](https://github.com/user-attachments/assets/67ac2336-fd1b-4538-b80d-086c54b56073)
+
+
+https://github.com/user-attachments/assets/e90d46fe-d095-4779-9101-72b51975e292
+
+![1000021317](https://github.com/user-attachments/assets/b6ed9e80-35cd-4ca0-80d7-615e164c3daf)
+![1000021304](https://github.com/user-attachments/assets/8b6463c1-208f-4971-a3dc-37e37e8b58b8)
+![1000021266](https://github.com/user-attachments/assets/ca8672bb-14af-46a6-a357-d21829244164)
+![1000021217](https://github.com/user-attachments/assets/54545472-28d2-40db-be0d-ec1b828498a0)
+![1000021200](https://github.com/user-attachments/assets/f1c85454-3276-4191-b693-d782fd70a95f)
+
+
+https://github.com/user-attachments/assets/8a01a3c4-ed54-477d-89b1-5345a45729fa
+
+![1000021149](https://github.com/user-attachments/assets/faa59746-b396-495f-9c79-75de43cbb9ee)
+![1000021147](https://github.com/user-attachments/assets/845f1f7e-3bff-423c-9df1-3a53ce8dd34a)
+![1000021106](https://github.com/user-attachments/assets/2860aa1d-706d-4b02-aa17-790352ee395d)
+![1000021103](https://github.com/user-attachments/assets/c17a4c43-9ce4-44ac-912e-82af1fc10c51)
+
+
+https://github.com/user-attachments/assets/697060a1-ca52-4f47-a3b3-52cec4227c50
+
 
 # Final Designs
 
