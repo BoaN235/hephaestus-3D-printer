@@ -3,7 +3,7 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 73 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 125 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
   
@@ -131,7 +131,7 @@ On day 24, I designed a custom PCB to serve as a control panel mounted on the fr
 
 day +26
 
-?? hours
+51 hours
 
   I started to build the printer. I cut the base of the wood then cut 4 peices at 490mm and 8 at 320mm.
 
