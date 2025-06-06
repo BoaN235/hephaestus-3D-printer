@@ -127,41 +127,58 @@ On day 24, I designed a custom PCB to serve as a control panel mounted on the fr
 ![image](https://github.com/user-attachments/assets/77a0082c-27bb-45e7-ad63-e2ce033f14b1)
 ![image](https://github.com/user-attachments/assets/77143ff7-c388-4b92-b7f0-dd4dbf52f1fb)
 
-## Next Steps
+## assembly  
 
-day +26
+Assembly happend in 3 stages
+  1. building the base - 10 hours 
+  2. reprinting evreyting 20 times - 24 hours 150+ hours printing
+  3. getting the thing to move **correctly** - 6 hours
 
-51 hours
+### building the base
+  When I was building the frame I put it onto the wood however the wood started to warp becuase I did a bad job cutting it with a jigsaw
 
-  I started to build the printer. I cut the base of the wood then cut 4 peices at 490mm and 8 at 320mm.
-
-![img_20250426_182509](https://github.com/user-attachments/assets/5e63754e-05c7-4051-8868-6f09e04aafb8)
-
-
-https://github.com/user-attachments/assets/e6f3f98b-c9fa-496d-b411-4481a0ec2bbb
-
-![1000021381](https://github.com/user-attachments/assets/06904883-b63a-41a8-b912-a049bbfd2fd2)
-![1000021380](https://github.com/user-attachments/assets/67ac2336-fd1b-4538-b80d-086c54b56073)
-
-
-https://github.com/user-attachments/assets/e90d46fe-d095-4779-9101-72b51975e292
-
-![1000021317](https://github.com/user-attachments/assets/b6ed9e80-35cd-4ca0-80d7-615e164c3daf)
-![1000021304](https://github.com/user-attachments/assets/8b6463c1-208f-4971-a3dc-37e37e8b58b8)
-![1000021266](https://github.com/user-attachments/assets/ca8672bb-14af-46a6-a357-d21829244164)
-![1000021217](https://github.com/user-attachments/assets/54545472-28d2-40db-be0d-ec1b828498a0)
-![1000021200](https://github.com/user-attachments/assets/f1c85454-3276-4191-b693-d782fd70a95f)
-
-
-https://github.com/user-attachments/assets/8a01a3c4-ed54-477d-89b1-5345a45729fa
-
-![1000021149](https://github.com/user-attachments/assets/faa59746-b396-495f-9c79-75de43cbb9ee)
-![1000021147](https://github.com/user-attachments/assets/845f1f7e-3bff-423c-9df1-3a53ce8dd34a)
-![1000021106](https://github.com/user-attachments/assets/2860aa1d-706d-4b02-aa17-790352ee395d)
-![1000021103](https://github.com/user-attachments/assets/c17a4c43-9ce4-44ac-912e-82af1fc10c51)
-
-
-https://github.com/user-attachments/assets/697060a1-ca52-4f47-a3b3-52cec4227c50
+![20250417_101342](https://github.com/user-attachments/assets/2e46a380-42bb-45ab-a521-ca9784ea6a7a)
+![20250415_152838](https://github.com/user-attachments/assets/c8566771-8195-4533-83f5-7e39ba03d3ff)
+![20250413_210253](https://github.com/user-attachments/assets/5b5d5091-c8b6-4f11-aab1-a5d544aca805)
+![20250413_210245](https://github.com/user-attachments/assets/8b8ca5f6-fa6d-45c7-8b8a-68e8fb9d3531)
+![20250413_185053](https://github.com/user-attachments/assets/a995ea82-31ca-45cf-9693-7e63d54eef9d)
+![20250516_003422](https://github.com/user-attachments/assets/33176718-b0f3-4ff5-a973-4c126ddabd94)
+![20250513_212002](https://github.com/user-attachments/assets/15de7e90-d6ff-4531-9063-bffb44a36ad0)
+![20250512_095726](https://github.com/user-attachments/assets/7c211f04-ace1-4aba-9d80-6e2f8b07a5d7)
+![20250512_084633](https://github.com/user-attachments/assets/8b515c48-c637-403d-b47f-a73e5b687b1d)
+![20250511_160051](https://github.com/user-attachments/assets/43090bca-50fb-4c1a-a879-709b9e91f8f6)
+![20250504_211552](https://github.com/user-attachments/assets/5d91a8ff-b314-4d17-8c3f-cf5b4102601c)
+![20250429_202154](https://github.com/user-attachments/assets/62fdcfe2-4724-4b6f-85fd-c28ec2676dd8)
+![20250424_071729](https://github.com/user-attachments/assets/6050b6ac-ede0-4def-a823-1c4e2bbf1a93)
+![20250422_081415](https://github.com/user-attachments/assets/6a518e35-bc69-4326-af9b-4283c4a28591)
+![20250418_225720](https://github.com/user-attachments/assets/7f432c90-b7f5-4e43-9750-22363d1b4c6b)
+![20250418_130429](https://github.com/user-attachments/assets/a7144230-b926-468a-b9bd-bdddf7915cf6)
+![20250418_130427](https://github.com/user-attachments/assets/d8797e72-add6-4458-8754-27537d809f33)
+![20250413_205937](https://github.com/user-attachments/assets/c4954f34-2696-4fc3-acdb-fc6529f6f71d)
+![20250515_224144](https://github.com/user-attachments/assets/1b44b236-c688-46d9-91d4-3c9d0939afbe)
+![20250513_070559](https://github.com/user-attachments/assets/ab0a0b41-eaa9-48ed-914e-69b94956ef48)
+![20250512_163205](https://github.com/user-attachments/assets/d758db3e-4e55-497b-a01d-f9c872c0269d)
+![20250504_154426](https://github.com/user-attachments/assets/dfd0de42-2eb1-487e-984a-9060c950c369)
+![20250422_081421](https://github.com/user-attachments/assets/3a782f26-8c0b-4f5d-b6f6-e8e48ec5bc84)
+![20250415_150342](https://github.com/user-attachments/assets/ed04adcb-10b5-49bb-b249-ab040a7e522e)
+![20250515_223249](https://github.com/user-attachments/assets/4becbb0a-4897-47b3-87f7-35b5510153c7)
+![20250513_201526](https://github.com/user-attachments/assets/bcbd5226-efd7-4b87-b110-bf5dc1e1331f)
+![20250513_201523](https://github.com/user-attachments/assets/028de3a8-01da-4bee-84fd-a91ac397ce4e)
+![20250513_070743](https://github.com/user-attachments/assets/d2cd4021-e4b1-4137-9c2b-f8a9673bd43d)
+![20250513_070740](https://github.com/user-attachments/assets/a9dda4a7-19d3-47c9-8584-e2d0c1e2b6a9)
+![20250513_070736](https://github.com/user-attachments/assets/a12c8a5a-ae78-436d-8acd-c251b65db876)
+![20250512_163207](https://github.com/user-attachments/assets/4344f262-ef61-460d-98bc-5d673aff1e48)
+![20250512_102604](https://github.com/user-attachments/assets/4e479f2e-286e-4bea-bd38-593df8e308c0)
+![20250511_212705](https://github.com/user-attachments/assets/5d57e4dc-5035-42f3-8c70-fe45c99239bc)
+![20250511_212353](https://github.com/user-attachments/assets/bbce5a7a-cd44-415b-b3ed-d79b5443b9c5)
+![20250511_163502](https://github.com/user-attachments/assets/367ca598-9e91-4af4-a834-b6bc4062a7cb)
+![20250511_162944](https://github.com/user-attachments/assets/a20eea29-bfef-444e-bc77-b79d15fa3474)
+![20250510_165946](https://github.com/user-attachments/assets/d5621665-e024-44d4-bb2e-009aea061db7)
+![20250509_173830](https://github.com/user-attachments/assets/58d51dd5-d0d8-4920-a6a3-f8361bc8a9cc)
+![20250508_075056](https://github.com/user-attachments/assets/27aafef8-8c71-49ef-8910-aa03a4b83650)
+![20250501_205331](https://github.com/user-attachments/assets/605be373-9f87-443b-9170-d8df28a6760b)
+![20250426_221215](https://github.com/user-attachments/assets/84212967-1cd6-46a6-9a29-6a3daef7b45b)
+![20250422_184941](https://github.com/user-attachments/assets/2bbaf1b9-f906-449d-8c17-f57ab515b862)
 
 
 # Final Designs
@@ -209,7 +226,6 @@ https://github.com/user-attachments/assets/697060a1-ca52-4f47-a3b3-52cec4227c50
 
 
 
-## asembly 
 
 ### Extrusion Lenghts
 5x 320 mm 32 cm 12.5984 inchs
@@ -221,6 +237,7 @@ https://github.com/user-attachments/assets/697060a1-ca52-4f47-a3b3-52cec4227c50
 2x side pecies
 2x head rail holders
 1x front head
+
 1x back head
 2x moter mounts
 4x top holders
