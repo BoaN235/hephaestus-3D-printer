@@ -134,8 +134,14 @@ Assembly happend in 3 stages
   2. reprinting evreyting 20 times - 24 hours 150+ hours printing
   3. getting the thing to move **correctly** - 6 hours
 
-### building the base
-  When I was building the frame I put it onto the wood however the wood started to warp becuase I did a bad job cutting it with a jigsaw
+### building the base/frame
+  When I was building the frame I put it onto the wood however the wood started to warp becuase I did a bad job cutting it with a jigsaw so I eventualy had to remove that part as it warped. The frame however worked well and was pretty easy to put together after I cut the alumuinum extrusions.
+
+### Printed Parts/Smaller Mechanisms
+  pain
+
+### software and movment
+  more pain
 
 ![20250417_101342](https://github.com/user-attachments/assets/2e46a380-42bb-45ab-a521-ca9784ea6a7a)
 ![20250415_152838](https://github.com/user-attachments/assets/c8566771-8195-4533-83f5-7e39ba03d3ff)
