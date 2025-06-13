@@ -135,13 +135,13 @@ Assembly happend in 3 stages
   3. getting the thing to move **correctly** - 6 hours
 
 ### building the base/frame
-  When I was building the frame I put it onto the wood however the wood started to warp becuase I did a bad job cutting it with a jigsaw so I eventualy had to remove that part as it warped. The frame however worked well and was pretty easy to put together after I cut the alumuinum extrusions.
+  When I was building the frame I put it onto the wood however the wood started to warp becuase I did a bad job cutting it with a jigsaw so I eventualy had to remove that part as it warped. The frame however worked well and was pretty easy to put together after I cut the alumuinum extrusions. there is a slight problem about not being level but I can put a small messed up print and it fixes it
 
 ### Printed Parts/Smaller Mechanisms
-  pain
+  This step took up the most time as I had to spend days upon days reprinting parts. I eventualy got up to around 250 hours on my printer. most parts wouldn't work in the first try so I would reprint it then try again. A huge amount of the parts I bought did not imedieatly work so I had to change my design and reprint a ton of parts.
 
 ### software and movment
-  more pain
+  The software was the eseiast part to build. I used the klipper firmware with some smaller changes to allow the printer to work. Seeing the printer come to life and first move was my favoruite part. I was so exicted to see my design working it didn't take much longer to get the printer to print. However it started to skip and after a lot of tightning parts it worked well I got a very good looking benchy that compares to the kobra 3 I used to print parts.
 
 ![20250417_101342](https://github.com/user-attachments/assets/2e46a380-42bb-45ab-a521-ca9784ea6a7a)
 ![20250415_152838](https://github.com/user-attachments/assets/c8566771-8195-4533-83f5-7e39ba03d3ff)
