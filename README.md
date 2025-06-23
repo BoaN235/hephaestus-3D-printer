@@ -11,6 +11,8 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 
 Nicknamed "fire hazard"
 
+![hpdrawingpng](https://github.com/user-attachments/assets/0c495961-5967-46fa-af0f-309581573ffe)
+
 
 ## Goals and Requirments
 - standard 235 x 235mm
