@@ -13,6 +13,10 @@ Total time: 2 hours
 - Enclosed
 - RGB lights
 
+
+### Hp-1.1
+![1000027675](https://github.com/user-attachments/assets/9ab6e65c-69c8-4c8a-bfef-f750ea1e3191)
+
 ---
 
 ## Day 1 
