@@ -14,7 +14,7 @@ Total time: 2 hours
 - RGB lights
 
 
-### Hp-1.1
+### older version Hephaestus-1.1
 ![1000027675](https://github.com/user-attachments/assets/9ab6e65c-69c8-4c8a-bfef-f750ea1e3191)
 
 ---
