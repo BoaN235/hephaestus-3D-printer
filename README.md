@@ -1,3 +1,37 @@
+# Hephaestus-1v2
+title: "Hephaestus-1v2"
+description: "A Core XY Printer with a z axis tilt"
+Made by : Boa_N
+
+Total Time: 7 hours
+
+## Goals and Requirments
+- Idk if i wanna do 235x235 or 220x220
+- CoreXY
+- Encolsed
+- Z Tilt bed
+- Compressed into a small footprint ~360x360x470 mm or ~14.17x14.17x18.5 in
+- I would like to design a pcb for this project
+
+## info
+  This version was built with the old parts of Hephaestus-1 an broken Ender 3V3 and a few new parts
+
+## log
+- ### Feb 21st - Feb 24th Toolhead Work Time: 2.5 hours
+  <img width="787" height="841" alt="image" src="https://github.com/user-attachments/assets/c856e3d8-c3a6-49e6-a31f-33da6c182ecd" />
+  <img width="502" height="466" alt="image" src="https://github.com/user-attachments/assets/1acd4ef4-3fa2-495f-a994-0bd3d1851ca3" />
+
+
+
+- ### Feb 25th - Mar 1st Main Body Overall Design Time 3.5 hours
+  <img width="537" height="645" alt="image" src="https://github.com/user-attachments/assets/7e403504-a633-45bd-b4be-043f7e0d8f72" />
+
+
+
+
+# ------------------| OLD VERSION |------------------
+
+
 # Hephaestus-1
 title: "Hephaestus-1"
 description: "A Core XY Printer"
